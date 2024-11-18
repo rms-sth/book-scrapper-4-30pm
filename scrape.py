@@ -6,6 +6,29 @@
 # git config --global user.name "FIRST_NAME LAST_NAME"
 # git config --global user.email "MY_NAME@example.com"
 
+
+# GIT Tutorial
+# install git
+# create repository in github
+
+# go to git bash
+# git config --global user.name "Ramesh Pradhan"
+# git config --global user.email "pyrameshpradhan@gmail.com"
+
+# git init
+# git status => if you want to check what are the status of files
+# git diff => if you want to check what are the changes
+# git add . => file track
+# git commit -m "Your message"
+# copy paste git code from github
+
+###################################
+# 1. change the code
+# 2. git add .
+# 3. git commit -m "Your message"
+# 4. git push origin
+###################################
+
 import requests
 import sqlite3
 
