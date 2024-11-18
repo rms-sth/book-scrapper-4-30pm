@@ -6,8 +6,9 @@
 # git config --global user.name "FIRST_NAME LAST_NAME"
 # git config --global user.email "MY_NAME@example.com"
 
-import sqlite3
 import requests
+import sqlite3
+
 from bs4 import BeautifulSoup
 
 URL = "http://books.toscrape.com/"
